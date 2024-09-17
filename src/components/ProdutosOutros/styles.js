@@ -24,7 +24,7 @@ color:black;
 margin-bottom:-22px;
 `
 
-export const desc = styled.h5`
+export const desc = styled.p`
 color:black;
 margin-bottom:-22px;
 `
